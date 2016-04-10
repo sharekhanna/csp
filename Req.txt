@@ -1,0 +1,24 @@
+Knowledge of HTTP protocal based APIs. Worked with google API and Jira API. 
+
+Have good understanding of distributed architecture. Solid Skills in OO Design & Programming Logics.
+
+Worked in Large Enterprise Projects and have extensive Knowledge in LAMP STACK.
+
+Written front-end standards-compliant code for our website using HTML, CSS and JavaScript from the scratch. Converted  Photoshop PSD designs to clean HTML, CSS and ensured cross browser compatibility.
+
+Write Code in jQuery, write jQuery plugins and widgets.
+
+Troubleshoot JavaScript issues.
+
+Managed Git version control system and write technical articles in Confluence.
+
+----------------------------------------------------------------------
+
+Experience with Joomla! framework.
+PHP programming with MySQL database skills.
+Integrate JavaScript with REST web services, MVC application and .Net ASPX pages.
+Expert PHP proficiency in large, scalable web applications.
+Very approachable, and able to mentor a small team.
+Experience with MVC framework Laravel 5.
+Good understanding of Postgresql, performance tuning, relational database design, triggers and working with data at scale.
+Excellent abilities in HTML, CSS, JavaScript & Ajax, XML, RESTful APIs.
